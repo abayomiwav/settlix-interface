@@ -315,3 +315,4 @@ Integration with:
 ---
 
 Built with ❤️ for merchants worldwide
+<!-- fix: addresses issue #198 - [Bug] Asset icon requests are not batched causing excessive HTTP requests -->
